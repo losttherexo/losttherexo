@@ -2,10 +2,10 @@
 
 My name's André and I'm a Fullstack Software Engineer and Artist! Since technology has always pushed creativity forward, it was very natural for my background in Music Production to evolve and aggregate into coding so here I am ready to take on the world 😤 When I'm not coding or working on the next music project, you can find me gaming, pouring a shot of espresso (or sometimes gin), or going to Target with my girlfriend. If you ever wanna reach out don't be a stranger!
 
-- 🔭 I’m currently working on building an Instagram automation app.
-- 💬 Ask me about my fervent love for The 1975 and how I believe they mastered pop songwriting.
-- 📫 How to reach me: a.vargas252@icloud.com
-- ⚡ Fun fact: There is a bar in Brooklyn called Jupiter Disco and I transcend to the stars every visit.
+🔭 I’m currently working on building an Instagram automation app.
+💬 Ask me about my fervent love for The 1975 and how I believe they mastered pop songwriting.
+📫 How to reach me: a.vargas252@icloud.com
+⚡ Fun fact: There is a bar in Brooklyn called Jupiter Disco and I transcend to the stars every visit.
 
 <!--
 **losttherexo/losttherexo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
