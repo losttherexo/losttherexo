@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name's André and I'm a Fullstack Software Engineer and Artist. Since technology has always pushed art forward, it felt very natural for my background in Music Production to evolve and merge with coding so here I am ready to take on the world 😤 When I'm not coding or working on the next music project, you can find me gaming, pouring a shot of espresso (or sometimes gin), or going to Target with my girlfriend. If you ever wanna reach out don't be a stranger!
+My name's André and I'm a Fullstack Software Engineer and Artist. Since technology has always pushed art forward, it felt very natural for my background in Music Production to evolve and merge with coding so here I am ready to take on the world 😤 When I'm not coding or working on the next music project, you can find me gaming, pouring a shot of espresso (sometimes gin), or going to Target with my girlfriend. If you ever wanna reach out don't be a stranger!
 
 🔭 I’m currently working on building an Instagram automation app<br>
 💬 Ask me about my current obsession, I have many!<br>
